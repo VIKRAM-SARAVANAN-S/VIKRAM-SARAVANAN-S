@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VIKRAM-SARAVANAN-S&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKRAM-SARAVANAN-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/vikram_0_0_7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VIKRAM-SARAVANAN-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
